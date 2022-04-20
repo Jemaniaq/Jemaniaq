@@ -1,4 +1,4 @@
-#Personal information
+# Personal information
 - 👋 Hi, I’m @Jemaniaq
 - 👀 I’m interested in: computer science, especially coding
 - 🌱 I’m currently learning: mainly C#
