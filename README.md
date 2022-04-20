@@ -4,8 +4,8 @@
 - 🌱 I’m currently learning: mainly C#
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me:
--   Twitter: [@Jemaniaq](https://twitter.com/Jemaniaq)
--   Email: jemaniac.pxlgames@gmail.com
+-   &nbsp; &nbsp; Twitter: [@Jemaniaq](https://twitter.com/Jemaniaq)
+-   &nbsp; &nbsp; Email: jemaniac.pxlgames@gmail.com
 
 <!---
 Jemaniaq/Jemaniaq is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
